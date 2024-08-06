@@ -16,4 +16,4 @@ O objetivo é adivinhar um número secreto entre 1 e 1000 usando comandos de voz
 
 ## Jogue Agora
 
-Experimente o jogo [aqui]([https://URL_DO_JOGO_NO_VERCE](https://numero-secreto-psi-ten.vercel.app/)L).
+Experimente o jogo [aqui](https://numero-secreto-psi-ten.vercel.app/).
